@@ -1,0 +1,1 @@
+This was a prototype developed in partnership with MSc. Cauana Schumann for COVIDGI's Summer-Winter School in February 2023 (https://www.covidgi.uni-hamburg.de/en/aktivitaeten/sommer-winter-schule.html).
